@@ -1,1 +1,2 @@
+sonatype/nexus3
 jenkinszh/jenkins-zh:latest
