@@ -1,3 +1,4 @@
+# gitlab arm架构
 gitlab/gitlab-ce:latest --platform linux/amd64
 nginx
 sonatype/nexus3
