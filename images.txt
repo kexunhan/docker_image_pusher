@@ -1,2 +1,2 @@
 # gitlab arm架构
-jenkins/jenkins
+jenkins/jenkins platform=linux/arm64/v8
